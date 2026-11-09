@@ -24,7 +24,3 @@ Mobile Software Development (MDSD) - Lab 9
    ```bash
    flutter run
    ```
-
-## Labsheet
-ดูใบงานและการทดสอบ Checkpoint ทั้งหมดได้ที่:
-[imnotppee/MDSD-Lab9-Labsheet-2026](https://github.com/imnotppee/MDSD-Lab9-Labsheet-2026)
