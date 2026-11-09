@@ -1,0 +1,27 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "campus-marketplace-chutiporn",
+          "appId": "1:679923861034:android:4fd22f56963a9f253fa553",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "campus-marketplace-chutiporn",
+          "configurations": {
+            "android": "1:679923861034:android:4fd22f56963a9f253fa553"
+          }
+        }
+      }
+    }
+  }
+}
